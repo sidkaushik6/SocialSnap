@@ -1,2 +1,2 @@
-# SocialSnap-
-SocialSnap 
+# SocialSnap
+SocialSnap -  social media web application
